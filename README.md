@@ -1,0 +1,2 @@
+# CreditScoreModel-LightGBM
+基于LightGBM算法开发贷前申请评分卡模型
